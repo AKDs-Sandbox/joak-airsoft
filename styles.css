@@ -197,5 +197,13 @@ html, body{
     padding: 1rem 0;
     font-size: 0.9rem;
 
+    color: rgb(210, 205, 194);
+  }
+
+  .sponsor{
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    align-items: center;
   }
   
